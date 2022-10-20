@@ -18,6 +18,6 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=Figma)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C)&nbsp;
 
-![Snake animation](https://github.com/rafaballerini/cristovaom/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 
