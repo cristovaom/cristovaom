@@ -11,4 +11,4 @@ Foz do Iguaçu , Paraná - BR
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristovaom&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristovaom&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+<img width="42%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristovaom&layout=compact&theme=radical" />
